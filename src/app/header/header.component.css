@@ -48,7 +48,7 @@ flex-direction: row;
          border-radius:15px;
          height: 130px;
          border-bottom: orange solid 4px;
-    transform: translate(15px,0px);
+    transform: translate(5px,0px);
          margin-top: 15px;
     
     }
@@ -155,6 +155,7 @@ flex-direction: row;
     
         color: blueviolet;
         cursor: pointer;
+        transform: translate(400px ,-200px);
  
     }
     
@@ -162,6 +163,174 @@ flex-direction: row;
     
         color: blueviolet;
         cursor: pointer;
+        transform: translate(400px ,-200px);
   
     }
+
+    /* Featured Companies */
+
+    .cont-ten {
+
+        background-color: #f3f3f3;   
+        width: 250px;
+        height: 210px;
+        border-radius: 15px;
+margin-right: 15px;
+align-items: center;
+justify-content: center;
+text-align: center;
+       }
+       
+       .cont-eleven {
+       
+           background-color: #f3f3f3;   
+           width: 250px;
+           height: 210px;
+           border-radius: 15px;
+           align-items: center;
+           justify-content: center;
+           text-align: center;
+    
+       
+          }
+
+          .cont-twelve {
+
+            background-color: #f3f3f3;   
+            width: 250px;
+            height: 210px;
+            border-radius: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+            
+           }
+           
+           .cont-thirteen {
+           
+               background-color: #f3f3f3;   
+               width: 250px;
+               height: 210px;
+               border-radius: 15px;
+               align-items: center;
+               justify-content: center;
+               text-align: center;
+        
+           
+              }
+
+              .cont-fourteen {
+
+                background-color: #f3f3f3;   
+                width: 250px;
+                height: 210px;
+                border-radius: 15px;
+        margin-right: 15px;
+        margin-top: 30px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+                
+               }
+               
+               .cont-fifteen {
+               
+                   background-color: #f3f3f3;   
+                   width: 250px;
+                   height: 210px;
+                   border-radius: 15px;
+                   margin-top: 30px;
+                   align-items: center;
+                   justify-content: center;
+                   text-align: center;
+               
+                  }
+        
+                  .cont-sixteen {
+        
+                    background-color: #f3f3f3;   
+                    width: 250px;
+                    height: 210px;
+                    border-radius: 15px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-top: 30px;
+                    align-items: center;
+                    justify-content: center;
+                    text-align: center;
+                   }
+                   
+                   .cont-seventeen {
+                   
+                       background-color: #f3f3f3;   
+                       width: 250px;
+                       height: 210px;
+                       border-radius: 15px;
+                       margin-top: 30px;
+                       align-items: center;
+                       justify-content: center;
+                       text-align: center;
+                   
+                      }
   
+                      .cont-eighteen {
+
+                        background-color: #f3f3f3;   
+                        width: 250px;
+                        height: 210px;
+                        border-radius: 15px;
+                margin-right: 15px;
+                margin-top: 30px;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                        
+                       }
+                       
+                       .cont-nineteen {
+                       
+                           background-color: #f3f3f3;   
+                           width: 250px;
+                           height: 210px;
+                           border-radius: 15px;
+                           margin-top: 30px;
+                           align-items: center;
+                           justify-content: center;
+                           text-align: center;
+                       
+                          }
+                
+                          .cont-twenty {
+                
+                            background-color: #f3f3f3;   
+                            width: 250px;
+                            height: 210px;
+                            border-radius: 15px;
+                    margin-right: 15px;
+                    margin-left: 15px;
+                    margin-top: 30px;
+                            align-items: center;
+                            justify-content: center;
+                            text-align: center;
+                           }
+                           
+                           .cont-twenty-one {
+                           
+                               background-color: #f3f3f3;   
+                               width: 250px;
+                               height: 210px;
+                               border-radius: 15px;
+                               margin-top: 30px;
+                               align-items: center;
+                               justify-content: center;
+                               text-align: center;
+                           
+                              }
+
+
+          .vac {
+              color:mediumorchid;
+          }

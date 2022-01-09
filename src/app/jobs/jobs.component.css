@@ -1,0 +1,57 @@
+#search {
+
+    width: 350px;
+    border-radius: 20px;
+
+    height: 40px;
+    border: mediumorchid solid 1px;
+    outline: none;
+
+}
+
+#btn{
+
+    width: 120px;
+    border-radius: 25px;
+
+}
+
+#btn-two {
+
+    width: 120px;
+    border-radius: 25px;
+
+}
+
+.row {
+    background-color: #f3f3f3;
+  
+}
+
+#btn-three {
+width: 100px;
+border-radius: 20px;
+
+}
+
+#btn-four {
+    width: 200px;
+    border-radius: 20px;
+}
+
+#btn-five {
+    width: 150px;
+    border-radius: 20px;
+}
+
+#btn-six {
+
+    width: 180px;
+    border-radius: 20px;
+}
+
+#btn-seven {
+    width: 200px;
+    border-radius: 20px;
+}
+
